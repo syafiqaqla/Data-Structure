@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1704903313 source:d:\data (d)\all programming language\c++\pt\ptmod15\final project end\fp.cpp
+	"FP.h"
+	<iostream>
+
+1704903107 d:\data (d)\all programming language\c++\pt\ptmod15\final project end\fp.h
+	<iostream>
+
+1704903030 source:d:\data (d)\all programming language\c++\pt\ptmod15\final project end\main.cpp
+	<iostream>
+	"FP.h"
+
