@@ -17,8 +17,7 @@ int main() {
 
         cout << "================================" << endl;
         cout << "===       Final Project      ===" << endl;
-        cout << "===        Programming       ===" << endl;
-        cout << "===         Algorithm        ===" << endl;
+        cout << "===       Data Structure     ===" << endl;
         cout << "===     BY Edric X Syafiq    ===" << endl;
         cout << "================================" << endl;
         cout << "" << endl;
